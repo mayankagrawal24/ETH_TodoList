@@ -185,12 +185,9 @@ App Setup
 4. Start Ganache desktop application by running the executable file for Ganache
 5. Select the Quickstart option in Ganache to start the Ethereum simulator (Note if the ganache application is closed then the environment will be terminated and you will lose any data on the blockchain)
 
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/ganache_start.png")
+![Ganache Start]("images/ganache_start.png")
 
 
 6. Run the following commands in the terminal from the ETH_TodoList directory
