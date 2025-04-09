@@ -187,7 +187,7 @@ App Setup
 
 
 
-![Ganache Start]("images/ganache_start.png")
+![Ganache Start](images/ganache_start.png)
 
 
 6. Run the following commands in the terminal from the ETH_TodoList directory
