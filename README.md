@@ -109,30 +109,30 @@ App Setup
 
 * At this point your smart contract has been deployed to the blockchain and it is ready to be interacted with
 7. Gather the private key for the first account in the ganache editor.
-   A.  Open the ganache program
-   B.  Click on the Key icon on the right side of the screen for the first account in list, to show the keys for the account
+    A.  Open the ganache program
+    B.  Click on the Key icon on the right side of the screen for the first account in list, to show the keys for the account
 
-   ![Ganache Start](images/ganache_find_user_keys.png)
-   C.  Copy the private key as it will be used in step 8 (yours will be different that this one).
+    ![Ganache Start](images/ganache_find_user_keys.png)
+    C.  Copy the private key as it will be used in step 8 (yours will be different that this one).
 
    ![Ganache Start](images/ganache_user_private_key.png)
 
 8. Go to your browser and perform the following steps to add your Ganache user account to meta mask to interact with the blockchain.
-   A.  Click on the Metamask icon in the browser extension menu. 
-   B.  Click on dropdown button at the top of the metamask popup.
+    A.  Click on the Metamask icon in the browser extension menu.
+    B.  Click on dropdown button at the top of the metamask popup.
 
-   ![Ganache Start](images/metamask_account_switch.png)
+    ![Ganache Start](images/metamask_account_switch.png)
 
-   C.  Click on the “Add account or hardware wallet” button
+    C.  Click on the “Add account or hardware wallet” button
 
-   ![Ganache Start](images/metamask_account_add.png)
+    ![Ganache Start](images/metamask_account_add.png)
 
 
-   D.  Click on the private key button
-   E.  Paste in the private key that you copied in step 7c to the input box and click import. 
-   F.  At this point you have configured your meta mask to hold the wallet address for the first account in your Ganache environment
+    D.  Click on the private key button
+    E.  Paste in the private key that you copied in step 7c to the input box and click import. 
+    F.  At this point you have configured your meta mask to hold the wallet address for the first account in your Ganache environment
 
-9. Run the Nodejs front end application
+10. Run the Nodejs front end application
     * In the directory ETH_TodoList, run the command npm run dev
     * The frontend application should launch in your browser 
     * At this point you should see a single task called “Check ou”
