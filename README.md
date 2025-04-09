@@ -195,13 +195,7 @@ App Setup
     * truffle migrate
         * After this command you should see roughly the following response
 
-            
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+<ADD IMAGE HERE>
 
 * At this point your smart contract has been deployed to the blockchain and it is ready to be interacted with
 7. Gather the private key for the first account in the ganache editor. 
