@@ -195,51 +195,28 @@ App Setup
     * truffle migrate
         * After this command you should see roughly the following response
 
-<ADD IMAGE HERE>
+Add Image here
 
 * At this point your smart contract has been deployed to the blockchain and it is ready to be interacted with
 7. Gather the private key for the first account in the ganache editor. 
 1. Open the ganache program
 2. Click on the Key icon on the right side of the screen for the first account in list, to show the keys for the account
 
-        
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
 
 
 3. Copy the private key as it will be used in step 8 (yours will be different that this one).
 
-        
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
 
 
 8. Go to your browser and perform the following steps to add your Ganache user account to meta mask to interact with the blockchain.
 1. Click on the Metamask icon in the browser extension menu. 
 2. Click on dropdown button at the top of the metamask popup.
 
-        
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+       
 
 
 3. Click on the “Add account or hardware wallet” button
 
-        
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
 
 
 4. Click on the private key button
@@ -253,13 +230,6 @@ App Setup
     * You will see a metamask popup that will ask you to confirm the transaction, press yes
     * After the new list will be loaded and you will see the new item added to it. 
     * To check off a task from the list click on the input box next to the item. You will be prompted to confirm the transaction, and the task should be checked off the list
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
 
 
 To run the test scripts
